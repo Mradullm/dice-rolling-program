@@ -15,7 +15,7 @@ A simple Python script that simulates rolling two six-sided dice. Great for begi
 
 No external libraries required—just the built-in `random` module.
 
-## 🚀 How to Run
+## 🚀 How to Run it !
 
 1. Clone the repository:
 
